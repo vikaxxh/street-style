@@ -1,0 +1,28 @@
+.wrapper{
+  display: flex;
+  justify-content: space-evenly;
+  background-color: aqua;
+  color :black;
+  position: fixed;
+  z-index: 1;
+ width: 100%;
+ top:0;
+ 
+}
+
+.text-link{
+    color: red;
+    text-decoration: none;
+}
+
+.speedDial {
+  position: fixed;
+  right: 3vmax;
+  top: 3vmax;
+}
+
+.speedDialIcon {
+  width: 56px;
+  height: 56px;
+   border-radius: 100%;
+}
